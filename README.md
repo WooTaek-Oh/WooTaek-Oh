@@ -1,4 +1,4 @@
-## 안녕하세요!!! 저는 개발을 배우고 있는 오우택입니다.
+## 안녕하세요!!! 매일 조금씩 성장하는 오우택입니다.
 ## 📊 GitHub Stats
 
 [![basicprogram's GitHub stats](https://github-readme-stats.vercel.app/api?username=basicprogram&show_icons=true&theme=radical&title_color=89CFF0&icon_color=FFFF00&ring_color=89CFF0)](https://github.com/anuraghazra/github-readme-stats)
