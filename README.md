@@ -14,3 +14,5 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
+프로젝트명	설명	기간	인원	역할
+Closetory	옷장 정리부터 AI 코디 추천까지 - 스마트 옷장 앱	2026.01.16 ~ 2026.02.11	6명	Backend
