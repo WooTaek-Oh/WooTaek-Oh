@@ -35,5 +35,12 @@
       <td>6명</td>
       <td>Frontend</td>
     </tr>
+    <tr>
+  <td><a href="https://github.com/basicprogram/SSAFY14-D102-WoW">WoW</a></td>
+  <td>WoW</td>
+  <td>2026.02.19 ~ 2026.04.03</td>
+  <td>5명</td>
+  <td>Backend</td>
+</tr>
   </tbody>
 </table>
