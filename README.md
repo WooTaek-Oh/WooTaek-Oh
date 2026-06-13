@@ -37,7 +37,7 @@
     </tr>
     <tr>
   <td><a href="https://github.com/basicprogram/SSAFY14-D102-WoW">WoW</a></td>
-  <td>WoW</td>
+  <td>소비 패턴을 날씨로 보여주는 핀테크 앱, WoW</td>
   <td>2026.02.19 ~ 2026.04.03</td>
   <td>5명</td>
   <td>Backend</td>
