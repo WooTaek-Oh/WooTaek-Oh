@@ -29,7 +29,6 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 </p>
 
-> AI: 현재 별도 개발 스택 없음 — Gemini API 연동 경험(Closetory)만 보유
 
 <br>
 
