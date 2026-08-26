@@ -1,4 +1,4 @@
-<h1 align="left"> 오우택 </h1> <p align="left"> <b>Android 앱 개발과 백엔드를 함께 다루는 개발자입니다.</b><br> 증상보다 구조를 먼저 봅니다. 로그와 데이터로 원인을 확인한 뒤 근본부터 고칩니다. </p> <p align="left"> 📫 이메일주소 &nbsp;|&nbsp; 📄 <a href="포트폴리오_링크">Portfolio</a> </p> <br>
+<h1 align="left"> 오우택 </h1> <p align="left"> <b>Android 앱 개발과 백엔드를 함께 다루는 개발자입니다.</b><br> 증상보다 구조를 먼저 봅니다. 로그와 데이터로 원인을 확인한 뒤 근본부터 고칩니다. </p> <p align="left"> 📫 dhdnxor0112@naver.com &nbsp;|&nbsp; 📄 <a href="포트폴리오_링크">Portfolio</a> </p> <br>
 
 ### Core Strengths
 
@@ -76,6 +76,8 @@
 
 ### Education
 
-한신대학교 컴퓨터공학과
+2023.03 ~ 2025.02 한신대학교 컴퓨터학과부
+2018.03 ~ 2023.02 배재대학교 컴퓨터공학과
+
 
 <br>
