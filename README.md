@@ -6,13 +6,10 @@ Android 앱 개발과 Spring Boot 백엔드를 함께 다루는 개발자입니�
 </p>
 
 <p align="left">
-📫 dhdnxor@naver.com &nbsp;|&nbsp; 📄 <a href="[https://www.canva.com/design/DAHKFCxXebU/](https://www.canva.com/design/DAHKFCxXebU/euRPXzmsSSrfhti3yxBNoA/edit)">Portfolio</a>
-
+📫 dhdnxor@naver.com &nbsp;|&nbsp; 📄 <a href="https://www.canva.com/design/DAHKFCxXebU/euRPXzmsSSrfhti3yxBNoA/edit">Portfolio</a>
 </p>
 
-<p align="left">
-SSAFY 14기 모바일 트랙 수료
-</p>
+
 
 <br>
 
