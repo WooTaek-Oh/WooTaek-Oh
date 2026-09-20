@@ -1,4 +1,13 @@
-<h1 align="left"> 오우택 </h1> <p align="left"> <b>Android 앱 개발과 백엔드를 함께 다루는 개발자입니다.</b><br> 증상보다 구조를 먼저 봅니다. 로그와 데이터로 원인을 확인한 뒤 근본부터 고칩니다. </p> <p align="left"> 📫 dhdnxor0112@naver.com &nbsp;|&nbsp; 📄 <a href="https://www.canva.com/design/DAHKFCxXebU/euRPXzmsSSrfhti3yxBNoA/edit">Portfolio</a> </p> <br>
+<h1 align="left"> 오우택 </h1>
+<p align="left">
+<b>Android 앱 개발과 백엔드를 함께 다루는 개발자입니다.</b><br>
+증상보다 구조를 먼저 봅니다. 로그와 데이터로 원인을 확인한 뒤 근본부터 고칩니다.
+</p>
+<p align="left">
+📫 dhdnxor0112@naver.com &nbsp;|&nbsp; 📄 <a href="https://www.canva.com/design/DAHKFCxXebU/euRPXzmsSSrfhti3yxBNoA/edit">Portfolio</a>
+</p>
+
+<br>
 
 ### Core Strengths
 
@@ -21,6 +30,15 @@
 <img src="https://skillicons.dev/icons?i=spring,java,mysql,postgres,firebase,aws"/>
 </p>
 
+**AI / LLM**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chroma-FF6F00?style=flat-square&logoColor=white"/>
+</p>
+
 **Cooperation**
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,gitlab"/>
@@ -28,7 +46,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 </p>
-
 
 <br>
 
@@ -38,8 +55,9 @@
 
 | 프로젝트 | 한 줄 요약 |
 |---|---|
+| [가입설계 챗봇](https://github.com/WooTaek-Oh/insurance-design-assistant) | 보험 약관 RAG 기반 근거·확신도 표시로 할루시네이션 차단, 멀티턴 가입설계 자동화 |
 | [Closetory](https://github.com/SSAFY14-D102/closetory) | AI 응답 43초 동안 화면이 멈추던 문제를 비동기 구조로 해결 |
-| **WoW** | 팀장 겸 백엔드로 금융 서비스 API 40여 개, 18개 테이블 설계 |
+| **WoW** | 팀장 겸 백엔드로 금융 서비스 API 18개 직접 구현, 6개 도메인 20여 개 테이블 팀 공동설계 |
 | **양파의 잡화점** | 이미지 업로드 성공률 0%→100%, 저장 구조 재설계 |
 | **DOITDO** | 저장 버튼 연타 시 중복 생성 문제를 가드 로직으로 해결 |
 | **PetCare Box** | NFC 태깅 한 번으로 픽업 체크인 완료, 2인 팀 7일 완성 |
@@ -52,6 +70,11 @@
 2025.07 ~ 2026.06
 - Android, Spring Boot 기반 프로젝트 4건 수행
 - 팀 프로젝트 2건에서 팀장 역할 수행
+
+**코멘토 AI Software Architect 부트캠프**
+2026.09
+- 동양생명 RFP 기반 가입설계 챗봇 프로토타입 1인 기획·개발
+- LangChain + Gemini API + Chroma로 RAG 기반 보험 약관 응답 시스템 구현
 
 <br>
 
@@ -75,9 +98,6 @@
 
 ### Education
 
-2023.03 ~ 2025.02 한신대학교 컴퓨터학과부 
+2023.03 ~ 2025.02 한신대학교 컴퓨터학과부
 
 2018.03 ~ 2023.02 배재대학교 컴퓨터공학과
-
-
-<br>
