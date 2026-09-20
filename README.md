@@ -56,11 +56,11 @@
 | 프로젝트 | 한 줄 요약 |
 |---|---|
 | [가입설계 챗봇](https://github.com/WooTaek-Oh/insurance-design-assistant) | 보험 약관 RAG 기반 근거·확신도 표시로 할루시네이션 차단, 멀티턴 가입설계 자동화 |
+| [DOITDO](https://github.com/Doitdo-project/Doitdo) | 저장 버튼 연타 시 중복 생성 문제를 가드 로직으로 해결 |
+| [WoW](https://github.com/WoW-Weather-of-Wallet/WoW) | 팀장 겸 백엔드로 금융 서비스 API 18개 직접 구현, 6개 도메인 20여 개 테이블 팀 공동설계 |
 | [Closetory](https://github.com/SSAFY14-D102/closetory) | AI 응답 43초 동안 화면이 멈추던 문제를 비동기 구조로 해결 |
-| **WoW** | 팀장 겸 백엔드로 금융 서비스 API 18개 직접 구현, 6개 도메인 20여 개 테이블 팀 공동설계 |
-| **양파의 잡화점** | 이미지 업로드 성공률 0%→100%, 저장 구조 재설계 |
-| **DOITDO** | 저장 버튼 연타 시 중복 생성 문제를 가드 로직으로 해결 |
-| **PetCare Box** | NFC 태깅 한 번으로 픽업 체크인 완료, 2인 팀 7일 완성 |
+| [PetCare Box](https://github.com/percarebox/Petcarebox) | NFC 태깅 한 번으로 픽업 체크인 완료, 2인 팀 7일 완성 |
+| [양파의 잡화점](https://github.com/Onion-General-Store/Onion-General-Store) | 이미지 업로드 성공률 0%→100%, 저장 구조 재설계 |
 
 <br>
 
