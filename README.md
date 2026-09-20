@@ -66,15 +66,15 @@
 
 ### Experience
 
-**삼성 청년 SW 아카데미 (SSAFY) 14기 · 모바일 트랙**
-2025.07 ~ 2026.06
-- Android, Spring Boot 기반 프로젝트 4건 수행
-- 팀 프로젝트 2건에서 팀장 역할 수행
-
 **코멘토 AI Software Architect 부트캠프**
 2026.09
 - 동양생명 RFP 기반 가입설계 챗봇 프로토타입 1인 기획·개발
 - LangChain + Gemini API + Chroma로 RAG 기반 보험 약관 응답 시스템 구현
+  
+**삼성 청년 SW 아카데미 (SSAFY) 14기 · 모바일 트랙**
+2025.07 ~ 2026.06
+- Android, Spring Boot 기반 프로젝트 4건 수행
+- 팀 프로젝트 2건에서 팀장 역할 수행
 
 <br>
 
