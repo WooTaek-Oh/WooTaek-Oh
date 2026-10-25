@@ -4,7 +4,7 @@
 증상보다 구조를 먼저 봅니다. 로그와 데이터로 원인을 확인한 뒤 근본부터 고칩니다.
 </p>
 <p align="left">
-📫 dhdnxor0112@naver.com &nbsp;|&nbsp; 📄 <a href="https://www.canva.com/design/DAHKFCxXebU/euRPXzmsSSrfhti3yxBNoA/edit">Portfolio</a> 
+📫 dhdnxor0112@naver.com &nbsp;|&nbsp; 📄 <a href="https://canva.link/z2v9jht44jw8f23">Portfolio</a>
 </p>
 
 <br>
