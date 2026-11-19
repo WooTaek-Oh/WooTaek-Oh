@@ -20,33 +20,25 @@
 
 ### Tech Stack
 
-**Android**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter"/>
-</p>
-
 **Backend**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=spring,java,mysql,postgres,firebase,aws"/>
-</p>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/spring%20data%20jpa-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white) ![MyBatis](https://img.shields.io/badge/mybatis-%23B22222.svg?style=for-the-badge) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Mobile**
+
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Retrofit](https://img.shields.io/badge/retrofit-%2348B983.svg?style=for-the-badge)
 
 **AI / LLM**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chroma-FF6F00?style=flat-square&logoColor=white"/>
-</p>
 
-**Cooperation**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab"/>
-<img src="https://raw.githubusercontent.com/davidxharris/skill-icons-plus/main/icons/Notion-Dark.svg" height="48" width="48"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/rag-%23FF6F00.svg?style=for-the-badge) ![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white) ![Chroma](https://img.shields.io/badge/chroma-%23FF6446.svg?style=for-the-badge) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
+**Infra / Cloud**
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Amazon S3](https://img.shields.io/badge/amazon%20s3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+**Collaboration**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <br>
 
 ### Pinned 소개
