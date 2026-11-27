@@ -34,7 +34,7 @@
 
 **Infra / Cloud**
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Amazon S3](https://img.shields.io/badge/amazon%20s3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Amazon S3](https://img.shields.io/badge/amazon%20s3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 **Collaboration**
 
